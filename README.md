@@ -48,8 +48,10 @@ Those who would like to explore this project and contribute themselves are able 
 This project is released under the MIT License. For more details, please refer to the [MIT License](./LICENSE).
 
 # Acknowledgements
+A special thanks to Columbia University Bootcamps for providing the educational material as well as the inspiration and criteria for this project!
 
 # Support
+
 
 # Version History
 
