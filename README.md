@@ -42,6 +42,7 @@ In order to use this website, access the live demo link found below! From there,
 rock, paper, or scissors. After they have choosen and the automatted opponent has made its choice, they will recieve a message staing if they have won, lost, or tied. This will then prompt another message to be recieved displaying the final score. Lastly, they will be asked whether they would like to play again. If so, this will prompt for the game to coninue.
 
 # Contributing
+Those who would like to explore this project and contribute themselves are able to do so locally on their machine by cloning the repository. Additioanlly, they are able to make sugestions by making Github issues that will allow for bugs, inspiration, and further suggestions to be identified. 
 
 # License
 
