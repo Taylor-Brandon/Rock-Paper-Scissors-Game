@@ -1,12 +1,20 @@
-var wins = 0;
 var ties = 0;
+var wins = 0;
 var losses = 0;
 
-var choices = ["Rock", "Paper", "Scissors"];
+var choice = ["Rock", "Paper", "Scissors"];
 
-if (window.confirm("Would You Like to play a game of Rock, Paper,Scissors?")) {
-    var game = prompt("Rock, Paper, or Scissors?")
+var playGame = function() {
+    var userChoice = window.prompt("Rock, Paper, or Scissors");
+
+    if(!userChoice) {
+        return;
+    }
+
+    var response = Math.floor(Math.random * choice.length);
+    computerChoice = choice[i];
+
+    
 }
-
 
 
