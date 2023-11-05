@@ -45,6 +45,7 @@ rock, paper, or scissors. After they have choosen and the automatted opponent ha
 Those who would like to explore this project and contribute themselves are able to do so locally on their machine by cloning the repository. Additioanlly, they are able to make sugestions by making Github issues that will allow for bugs, inspiration, and further suggestions to be identified. 
 
 # License
+This project is released under the MIT License. For more details, please refer to the [MIT License](./LICENSE).
 
 # Acknowledgements
 
