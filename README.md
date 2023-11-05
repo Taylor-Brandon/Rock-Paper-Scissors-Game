@@ -38,7 +38,8 @@ In order to explore this project in greater depth locally on your machine, pleas
 3. Double-click the 'index.html' file to view it in your web browser.
 
 # Usage 
-
+In order to use this website, access the live demo link found below! From there, users will be prompted with a question asking if they'd like to choose 
+rock, paper, or scissors. After they have choosen and the automatted opponent has made its choice, they will recieve a message staing if they have won, lost, or tied. This will then prompt another message to be recieved displaying the final score. Lastly, they will be asked whether they would like to play again. If so, this will prompt for the game to coninue.
 
 # Contributing
 
