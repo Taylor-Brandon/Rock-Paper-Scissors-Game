@@ -1,0 +1,9 @@
+:root{
+    --mainLight: rgb(0, 0, 0);
+}
+
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: var(--mainLight);
+}
