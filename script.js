@@ -4,4 +4,9 @@ var losses = 0;
 
 var choices = ["Rock", "Paper", "Scissors"];
 
-window.alert("Would you like to play a game of Rock, Paper, Scissors?");
+if (window.confirm("Would You Like to play a game of Rock, Paper,Scissors?")) {
+    var game = prompt("Rock, Paper, or Scissors?")
+}
+
+
+
