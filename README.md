@@ -54,6 +54,10 @@ A special thanks to Columbia University Bootcamps for providing the educational 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer at [taylor.brandon22545@gmail.com](mailto:taylor.brandon22545@gmail.com) or create an issue on the GitHub repository.
 
 # Version History
+* Version 1.0.0 (Initial Release)
+    * Basic HTML and CSS structure    
+    * README file created
+    * Live demo link added
 
 # References
 
