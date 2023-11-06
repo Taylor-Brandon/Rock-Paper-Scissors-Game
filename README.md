@@ -72,5 +72,7 @@ The references used for this application can be found here. These include:
 
 
 # Screenshots
+![Project Screenshot](./images/RPS.png)
 
 # Demo
+You can explore the live demo of this project by clicking the following link: [Live Demo](https://taylor-brandon.github.io/Rock-Paper-Scissors-Game/)
