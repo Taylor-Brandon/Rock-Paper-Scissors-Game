@@ -1,7 +1,7 @@
 ## Rock, Paper, Scissors Game
 
 # Description
-This is a website that is designated to showcasing my ability of utilizing javascript to make a fun game that everyone knows and loves!
+This is a website that is designated to showcasing my ability of utilizing javascript to make a fun game of Rock, Paper, Scissors against an automated opponent!
 This will include . . .
 
 1. Allowing users to play Rock, Paper, Scissors against an automatted opponent.
@@ -38,11 +38,10 @@ In order to explore this project in greater depth locally on your machine, pleas
 3. Double-click the 'index.html' file to view it in your web browser.
 
 # Usage 
-In order to use this website, access the live demo link found below! From there, users will be prompted with a question asking if they'd like to choose 
-rock, paper, or scissors. After they have choosen and the automatted opponent has made its choice, they will recieve a message staing if they have won, lost, or tied. This will then prompt another message to be recieved displaying the final score. Lastly, they will be asked whether they would like to play again. If so, this will prompt for the game to coninue.
+Access the live demo link below to play the game. Users will be prompted to choose between rock, paper, or scissors. After making their choice and receiving the automated opponent's decision, they'll be notified if they won, lost, or tied. The game keeps a score, and users can choose to play again.
 
 # Contributing
-Those who would like to explore this project and contribute themselves are able to do so locally on their machine by cloning the repository. Additioanlly, they are able to make sugestions by making Github issues that will allow for bugs, inspiration, and further suggestions to be identified. 
+To contribute, clone the repository to your local machine. You can also submit bug reports, feature requests, and suggestions by creating GitHub issues.
 
 # License
 This project is released under the MIT License. For more details, please refer to the [MIT License](./LICENSE).
@@ -51,7 +50,7 @@ This project is released under the MIT License. For more details, please refer t
 A special thanks to Columbia University Bootcamps for providing the educational material as well as the inspiration and criteria for this project!
 
 # Support
-If you have any questions, suggestions, or feedback, you can reach out to the project maintainer at [taylor.brandon22545@gmail.com](mailto:taylor.brandon22545@gmail.com) or create an issue on the GitHub repository.
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer at [taylor.brandon22545@gmail.com](mailto:taylor.brandon22545@gmail.com) or create an issue on the GitHub repository [here](https://github.com/Taylor-Brandon).
 
 # Version History
 * Version 1.0.0 (Initial Release)
@@ -72,7 +71,7 @@ The references used for this application can be found here. These include:
 
 
 # Screenshots
-![Project Screenshot](./images/RPS.png)
+![Game Screenshot](./images/RPS.png)
 
 # Demo
 You can explore the live demo of this project by clicking the following link: [Live Demo](https://taylor-brandon.github.io/Rock-Paper-Scissors-Game/)
